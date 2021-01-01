@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A former Agricultural Science student at The University of Queensland, now a Master of IT student at The University of New South Wales, and a wanna-be software developer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Github](https://github.com/nvba123)
